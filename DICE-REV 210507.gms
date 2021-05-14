@@ -1,3 +1,9 @@
+*********New comment regarding this revised version, comment added 2021-05-06***************
+*This is a revised version of DICE-2016R-091916ap.gms(see below for comments on that version).
+*In this version the carbon cycle model, the energy balance model and the non CO2 radiative forcing scenario has been updated
+*See Azar & Johansson, 2021, "DICE and the carbon budget for ambitious climate targets", downloadable at https://www.essoar.org/doi/10.1002/essoar.10506432.1
+*********************************************************************************************
+
 $ontext
 This is the beta version of DICE-2016R. The major changes are outlined in Nordhaus,
 "Revisiting the social cost of carbon: Estimates from the DICE-2016R model,"
